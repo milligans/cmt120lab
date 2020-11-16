@@ -1,0 +1,44 @@
+
+img{
+	background-color:cadetblue
+	border-width: auto;
+	border-style: solid;
+	border-color: brown
+
+}
+
+.welcome{
+	position: absolute;
+	top:40;
+	left:30%;
+    color: darkkhaki;
+	font-family: Arial, Helvetica, sans-serif;
+	font: Arial;
+}
+.welcomeMsg{
+	position: absolute;
+	top:90;
+	left: 30%;
+	color: darkkhaki;
+	font-family: Arial, Helvetica, sans-serif;
+	font: Arial;
+
+}
+.subHeading{
+	position: absolute;
+	left:30%;
+	font-family: Arial, Helvetica, sans-serif;
+	font: Arial;
+	color: brown;
+	font-size: 30px;
+}
+.bullets{
+	color: grey;
+	left:30%;
+    font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font: Arial;
+}
+
+
+
